@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/uwhupu778ko9scyg/branch/main?svg=true)](https://ci.appveyor.com/project/IgorPyak/api-ci/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/ynrtu523aaacxxfy/branch/main?svg=true)](https://ci.appveyor.com/project/IgorPyak/postecho/branch/main)
