@@ -36,7 +36,7 @@ public class PostmanTest {
     void ReturnCurrencyToPostman() {
         given()
                 .baseUri("https://postman-echo.com")
-                .body("currency:RUB")
+                .body("currency:RUR")
                 .when()
                 .post("/post")
                 .then()
